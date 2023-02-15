@@ -1,0 +1,40 @@
+
+.logo {
+  color: white;
+  text-decoration: ;
+  margin-left: 10px;
+}
+
+.home {
+  margin-left: 250px;
+  
+}
+.about {
+  margin-left: 200px;
+  
+}
+
+nav {
+  background-color: grey;
+  height: 10vh;
+}
+.heading2.1 {
+  text-align: center;
+}
+.heading2.2 {
+  text-align: center;
+  
+}
+.heading2.3 {
+  text-align: center;
+  
+}
+ 
+footer{
+  height: 10vh;
+  position: fixed;
+  bottom: 0;
+  background-color: #777777;
+  color: white;
+  
+}
